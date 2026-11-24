@@ -1,0 +1,22 @@
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# Build folders
+**/bin/
+**/obj/
+**/Debug/
+**/Release/
+
+# Compiled files
+*.exe
+*.dll
+*.bin
+*.pdb
+*.obj
+*.cache
+
+# Test results
+TestResults/
